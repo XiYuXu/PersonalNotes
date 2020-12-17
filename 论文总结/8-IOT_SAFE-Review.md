@@ -10,7 +10,7 @@
 
 ####  3.1区块链与中心化云服务器对比
 
-![image-20201030214802498](C:\Users\XiaoChuanye\AppData\Roaming\Typora\typora-user-images\image-20201030214802498.png)
+![image-20201217211441235](E:\GithubProjs\\image-20201217211441235.png)
 
 > **Q：**a key challenge that arises in some applications is that it is difficult to ensure that the properties of physical assets, individuals (credentials),resource use (energy and bandwidth through IoT devices), and other relevant events are stored securely and reliably.
 >

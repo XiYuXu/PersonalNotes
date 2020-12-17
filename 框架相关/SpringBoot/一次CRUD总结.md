@@ -1,3 +1,7 @@
+## 项目链接地址
+
+https://github.com/XiYuXu/SpringBootEasyExample
+
 ## 开发技术
 
 - Spring Boot2.3.1 
@@ -82,9 +86,9 @@ mybatis:
 >
 > com.zhou.pojo定义的是的项目纯实体对象,通过lombok插件简化代码规模
 >
-> MainAoolication作为Spring boot的main启动程序
+> MainApplication作为Spring boot的main启动程序
 
-![UFtg6f.png](https://s1.ax1x.com/2020/07/07/UFtg6f.png)
+![UFt2X8.png](https://github.com/XiYuXu/MyPictures/blob/master/UFt2X8.png?raw=true)
 
 #### mybaits编写流程
 
@@ -92,9 +96,9 @@ mybatis:
 
 #### Employee.mapper文件
 
+![UFt2X8.png](https://github.com/XiYuXu/MyPictures/blob/master/UFt2X8.png?raw=true)
 
-
-![UFt2X8.png](https://s1.ax1x.com/2020/07/07/UFt2X8.png)
+![UFt2X8.png](https://github.com/XiYuXu/MyPictures/blob/master/UFt2X8.png)
 
 > @Mapper表明这是一个Mybtis的Mapper类，@Repository将其注册为Spring的一个bean，这样就可以通过@Autowired注入直接使用
 
@@ -293,7 +297,7 @@ public String submitAdd(Employee employee){
 
 > 因为是post，表单的内容默认注入到了函数参数中，在此注入的都是html标签中包含name=？的值
 
-![UFtc1P.png](https://s1.ax1x.com/2020/07/07/UFtc1P.png)
+![UFtc1P.png](https://github.com/XiYuXu/MyPictures/blob/master/UFtc1P.png?raw=true)
 
 ```html
 <form th:action="@{/submitAdd}" method="post">

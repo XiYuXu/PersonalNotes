@@ -17,4 +17,5 @@
                         Drag(event){ event.dataTransfer.setData("nimei",event.target.id);}
 
 
-<input type="search" placeholder="SomeValue">
+
+
