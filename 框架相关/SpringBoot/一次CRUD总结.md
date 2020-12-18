@@ -88,7 +88,7 @@ mybatis:
 >
 > MainApplication作为Spring boot的main启动程序
 
-![UFt2X8.png](https://github.com/XiYuXu/MyPictures/blob/master/UFt2X8.png?raw=true)
+
 
 #### mybaits编写流程
 

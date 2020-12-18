@@ -10,7 +10,7 @@
 
 ####  3.1区块链与中心化云服务器对比
 
-![image-20201217211441235](E:\GithubProjs\\image-20201217211441235.png)
+![image-20201217211441235](https://pic.downk.cc/item/5fdbffe23ffa7d37b310f905.png)
 
 > **Q：**a key challenge that arises in some applications is that it is difficult to ensure that the properties of physical assets, individuals (credentials),resource use (energy and bandwidth through IoT devices), and other relevant events are stored securely and reliably.
 >
@@ -22,7 +22,7 @@
 
 #### 3.2在供应链中的作用：Blockchain's public availability is likely to make it possible to trace back every product to the origin of the raw materials.Transactions can also be possibly linked to identify users of vulnerable IoT devices.
 
-![](C:\Users\XiaoChuanye\AppData\Roaming\Typora\typora-user-images\image-20201030221005840.png)
+![](https://pic.downk.cc/item/5fdbfffc3ffa7d37b31106f2.png)
 
 #### 3.3在隐私保护上的应用
 
