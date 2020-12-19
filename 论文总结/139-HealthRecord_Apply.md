@@ -1,5 +1,3 @@
-> E:\Live And Learn\论文写作\Article\BlockChainSCI\139
-
 ## 写作目的
 
 > 现有的Electronic health record (EHR)面临很多不安全因素，而面向医疗的区块链存储解决方案可以提供分布式、匿名性、安全的EHR管理系统

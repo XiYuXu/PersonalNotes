@@ -1,5 +1,3 @@
-> E:\Live And Learn\论文写作\Article\BlockChainSCI\8.pdf
-
 ### 1.综述内容
 
 > 评估了区块链的在网络安全和隐私保护方面的作用，比较了区块链和云存储的优劣
@@ -11,6 +9,8 @@
 ####  3.1区块链与中心化云服务器对比
 
 ![image-20201217211441235](https://pic.downk.cc/item/5fdbffe23ffa7d37b310f905.png)
+
+
 
 > **Q：**a key challenge that arises in some applications is that it is difficult to ensure that the properties of physical assets, individuals (credentials),resource use (energy and bandwidth through IoT devices), and other relevant events are stored securely and reliably.
 >
