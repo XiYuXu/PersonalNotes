@@ -42,7 +42,7 @@
 
 #### **2.**超平面的定义
 
->  超平面定义为![[公式]](https://www.zhihu.com/equation?tex=%5Comega%5ETx%2Bb%3D0)，定义来源可参考笔记：https://github.com/XiYuXu/PersonalNotes/blob/master/%E6%95%B0%E5%AD%A6%E7%90%86%E8%AE%BA/%E8%B6%85%E5%B9%B3%E9%9D%A2.md
+>  超平面定义为![](https://pic.downk.cc/item/5fdd9b613ffa7d37b35bd776.png)，定义来源可参考笔记：https://github.com/XiYuXu/PersonalNotes/blob/master/%E6%95%B0%E5%AD%A6%E7%90%86%E8%AE%BA/%E8%B6%85%E5%B9%B3%E9%9D%A2.md
 
 #### 3.间隔Margin的定义
 
