@@ -1,3 +1,7 @@
+#### 对应论文地址
+
+> https://github.com/XiYuXu/BlockChainArticles/blob/master/140.pdf
+
 # 背景痛点
 
 全球市场竞争加剧，为提高制造业公司竞争力，促使制造商采用更先进的技术和逻辑方法（例如云计算、网络实体系统和最近的协同式云设计系统）。然而即便这些方法在数据交互等方面有所帮助，但仍存在不能参考用户使用反馈的问题。
@@ -100,5 +104,17 @@ for design and manufacturing sections.
 
 ## 2.SVM模型
 
-见本项目../数学理论/SVM详解
+笔记见本项目：https://github.com/XiYuXu/PersonalNotes/blob/master/%E6%95%B0%E5%AD%A6%E7%90%86%E8%AE%BA/SVM%E8%AF%A6%E8%A7%A3.md
+
+
+
+## 评价与收获
+
+#### 1.读后感
+
+> 文章偏于解决方案的提出，在所用技术的细节上并未做太多深入（如提到用到的SVM模型只是把SVM根本的数学来源进行照搬），优点是文章结构比较清晰，行文流畅，起承转合的过渡比较自然，或许可以作为日后写论文的指导模板。
+
+#### 2.相关收获
+
+> 通过网上对**区块链文献来源**的评价可以看出，或许区块链期刊更注重**研究流程的严谨性**，而对**创新型**的要求低一些。而在IEEE S&P (Oakland), ACM CCS, IACR Crypto, IACR Eurocrypto, USENIX Security，ACM PODC 等安全、密码、分布式理论的顶级会议区块链文章一般质量比较上乘。同时在**arxiv**、**eprint**等论文预收录网站，若是有一定的阅读经验，也能找到一些质量远远超过大量的顶级期刊论文。
 
