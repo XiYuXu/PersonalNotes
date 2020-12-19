@@ -1,4 +1,4 @@
->  参考链接https://www.bilibili.com/video/BV1oJ411U7Y8?t=1521、https://zhuanlan.zhihu.com/p/49331510、https://zhuanlan.zhihu.com/p/26307123
+>  参考链接https://www.bilibili.com/video/BV1oJ411U7Y8?t=1521  、https://zhuanlan.zhihu.com/p/49331510  、 https://zhuanlan.zhihu.com/p/26307123 、https://zhuanlan.zhihu.com/p/145706435
 
 ## SVM定义
 
@@ -36,13 +36,13 @@
 
 #### 1.样本点的定义
 
-![image-20201218100547665](E:\GithubProjs\MyPictures\image-20201218100547665.png)
+![](https://pic.downk.cc/item/5fdd73c73ffa7d37b33c73b4.png)
 
 定义单个样本点为上图中的(x<sub>1</sub>,y<sub>1</sub>),其中**x<sub>1</sub>**为d维的向量，y<sub>1</sub>则是最终的分类结果
 
 #### **2.**超平面的定义
 
->  超平面定义为![[公式]](https://www.zhihu.com/equation?tex=%5Comega%5ETx%2Bb%3D0)，相关来源参考资料https://zhuanlan.zhihu.com/p/145706435。
+>  超平面定义为![[公式]](https://www.zhihu.com/equation?tex=%5Comega%5ETx%2Bb%3D0)，定义来源可参考笔记：https://github.com/XiYuXu/PersonalNotes/blob/master/%E6%95%B0%E5%AD%A6%E7%90%86%E8%AE%BA/%E8%B6%85%E5%B9%B3%E9%9D%A2.md
 
 #### 3.间隔Margin的定义
 
@@ -56,4 +56,6 @@
 
 也就是说必须让超平面与样本点存在一定的间隔，同时可以看到表达式右边是正负1，如果左右都同时乘以一个常数，则间隔也将随比例变化。
 
-剩余参考链接
+
+
+>  **注：**之后的拉格朗日对偶化可查阅开头所述链接
