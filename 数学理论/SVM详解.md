@@ -22,7 +22,7 @@
 >
 > 如果我们找到一条足够粗的直线，其正好分离两个类，如下图所示，显然这种分类效果最好
 
-![image-20201218095557237](https://pic.downk.cc/item/5fdc0c533ffa7d37b318d5a3.png)
+![](https://pic.downk.cc/item/5fdd9a1d3ffa7d37b35aa0bd.png)
 
 ​																								图1-2 最大间隔的分类
 
