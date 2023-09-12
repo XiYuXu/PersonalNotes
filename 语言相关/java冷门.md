@@ -44,3 +44,49 @@ if(map.containsKey(key))
 map.get(key)
 ```
 
+#### 根据下标范围截取子串
+```
+String greeting = "hello";
+String subString = greeting.subString(0,3); //截取到下标范围0~2的"hel"，子串长度为3-0
+```
+
+#### 寻找子串
+> 返回与字符串str或代码点cp匹配的第一个子串的开始位置。这个位置从索引0或fromIndex开始计算。如果在原始串中不存在str，返回-1。
+1.int index0f(String str)
+2.int index0f(String str, int fromIndex)
+3.int index0f(int cp)
+4.int index0f(int cp, int fromIndex)
+
+#### Scanner与控制台
+```
+Scanner in = new Scanner(System.in);
+String name = in.nextLine(); //输入英文名时可以打空格
+String word = in.next();     //只想输入一个单词，可以用空格作为分隔符
+```
+#### 用String.format()创建一个格式化的字符串
+```
+String greeting = String.format("hello %s",userName);
+```
+#### 创建数组
+![](https://raw.githubusercontent.com/XiYuXu/MyPictures/master/20230912225625.png)
+
+#### 复制数组的区别
+1.引用相同的内存空间
+```
+int []raw = new int[10];
+int []result = raw;    //result和raw可以相互替换
+```
+2.完全指向不同空间的复制
+```
+/*将raw数组的内容复制到result中，result长度为raw.length*/
+int []reuslt = Arrays.copyOf(raw,raw.length);
+/*将raw数组空间翻倍*/
+raw = Arrays.copyOf(raw,raw.length*2);
+/*复制某一数组范围，下标从start至end-1*/
+int []result = Arrays.copyOfRange(raw,start,end);
+```
+
+#### 填充数组
+```
+Arrays.fill(type[] raw,type value); //用value填充相同type的数组raw
+```
