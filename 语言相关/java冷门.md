@@ -70,6 +70,8 @@ String greeting = String.format("hello %s",userName);
 #### 创建数组
 ![](https://raw.githubusercontent.com/XiYuXu/MyPictures/master/20230912225625.png)
 
+
+
 #### 复制数组的区别
 1.引用相同的内存空间
 ```
@@ -89,4 +91,23 @@ int []result = Arrays.copyOfRange(raw,start,end);
 #### 填充数组
 ```
 Arrays.fill(type[] raw,type value); //用value填充相同type的数组raw
+```
+
+#### 时间相关的LocalDate
+1.初始化一个变量
+```
+LocalDate a = LocalDate.now(); //静态工厂方法， 不用new对象
+LocalDate a = LocalDate.of(1992,12,28); //静态工厂方法， 不用new对象
+```
+2.获取年月日星期几
+```
+int year = a.getYear();
+int month = a.getMonthValue();
+int day = a.getDayOfMonth();
+int day = a.getDayOfWeek();
+```
+3.日期向前后推
+```
+LocalDate time = a.plusDays(days);
+LocalDate time = a.minusDays(days);
 ```
