@@ -111,3 +111,20 @@ int day = a.getDayOfWeek();
 LocalDate time = a.plusDays(days);
 LocalDate time = a.minusDays(days);
 ```
+
+#### 访问修饰符
+- **private** 仅对本类可见
+- **public** 对所有类可见
+- **protected** 对本包和子类可见
+- **无修饰符** 对本包可见
+
+
+#### 不用循环打印数组
+1.打印一维数组
+```
+直接用Arrays的静态Arrays.toString([]nums);
+```
+2.打印多维数组
+```
+Arrays.deepToString([][]nums);
+```
