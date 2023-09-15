@@ -130,16 +130,16 @@ Arrays.deepToString([][]nums);
 ```
 
 
-###反射
-####获取类名
+### 反射
+#### 获取类名
 ```
 e.getClass().getName();  //如果类在包内，包名也打印
 ```
-####根据类名获取类
+#### 根据类名获取类
 ```
 Class.forName(className);   //根据类路径className得到类
 ```
-####动态地创建一个类的实例
+#### 动态地创建一个类的实例
 ```
 e.getClass().newInstance();  //如果类在包内，包名也打印
 ```
