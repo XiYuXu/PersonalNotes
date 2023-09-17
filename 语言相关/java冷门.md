@@ -151,3 +151,8 @@ e.getClass().newInstance();  //如果类在包内，包名也打印
 
 ### 集合
 ![](https://raw.githubusercontent.com/XiYuXu/MyPictures/master/20230916002048.png)
+
+#### 泛型类型擦除
+
+
+#### 并行与并发

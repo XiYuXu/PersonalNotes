@@ -28,4 +28,21 @@ while(1){
         break;
 }
 ```
+#### 找某个字符
+```
+char* strchr(char const *str,int ch); //返回指向第一个ch出现的位置的指针
+char* strrchr(char const *str,int ch);//返回指向最后一个ch出现位置的指针，r代表right
+```
+#### 匹配某些字符
+```
+char* strbrk(char const *str,char const *group); //返回指向group字符序列中第一次出现元素位置
+```
 
+#### 找子字符串
+``` 
+char* strstr(char const *s1,char const *s2); //返回指向s2第一次出现在s1中的位置
+```
+#### 分割字符串
+```
+char *strtok(char *str,char const *sep);
+```
