@@ -59,3 +59,12 @@ border-style有如下值:dotted dashed double groove
 >1. 只有一个元素被标记为sticky,relaitive,absolute而不是static它的属性值left right等才起作用.与父元素共享起点.
 >2. 设置父元素为relative,子元素为absolute,则子元素的上下文为父元素.
 
+### 超链接样式书写顺序
+```
+a:link
+a:visited
+a:hover
+a:active
+记忆方式LVHA，吕哈~
+```
+
